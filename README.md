@@ -1,7 +1,7 @@
 ## CS2110-Spring2023
 ### Georgia Tech: Computer Organization and Programming Coursework and Projects
 - note: accuracy is not guaranteed as since this is used for archival purposes
-- 
+  
 ## Homeworks
 - HOMEWORK 1: Bases and Bitwise Operations (Java)
 - HOMEWORK 2: Digital Logic and the ALU (CircuitSim)
